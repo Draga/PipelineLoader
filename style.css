@@ -1,0 +1,4 @@
+img.loading {
+    background: url('/loading.gif') no-repeat center;
+    display: inline-block;
+}
